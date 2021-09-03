@@ -1,6 +1,6 @@
 # Admission Chance Calculator
 
-A simple Linear Regeression model based project with live link that helps in calculating the probability of getting admission in a University of specified ranking.
+A simple Linear Regeression model based project with [live link](https://share.streamlit.io/robby11baidwan/project_1/main/Proj1.py) that helps in calculating the probability of getting admission in a University of specified ranking.
 
 ## Description
 
