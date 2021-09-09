@@ -4,18 +4,19 @@ A simple Linear Regeression model based project with [live link](https://share.s
 
 ## Description
 
+
 Use the visualization tool provided to compare any 2 attributes present in the dataset.
+
+![image](https://user-images.githubusercontent.com/67312943/132628687-343cc96e-32f5-46ee-a3e8-7ef43ef9c39b.png)
+
+![image](https://user-images.githubusercontent.com/67312943/132629203-58aaf20f-2e86-43c0-aeb2-3aa60d29212c.png)
+
 Use the slidebars to tune the value and predict their outputs after passing through the model.
 
-![image](https://user-images.githubusercontent.com/67312943/132297216-14a1a6ce-671b-4112-a14f-c3c7ee88edba.png)
-
-![image](https://user-images.githubusercontent.com/67312943/132297097-dfb80e2d-0745-4685-a227-19595c5d1b2a.png)
-
-![image](https://user-images.githubusercontent.com/67312943/132297138-5350d1ed-0066-41f6-81ee-27de1cf3f563.png)
+![image](https://user-images.githubusercontent.com/67312943/132629267-e14c0da7-b479-4ecb-b318-03718e97a2c2.png)
 
 
-
-## Credits
+## Author
 
 Brijeshwar Singh
 101803170
