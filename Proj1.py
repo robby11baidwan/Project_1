@@ -22,7 +22,7 @@ st.write("A peek at the data we are gonna use :")
 df = df.drop(["Serial No."], axis=1)
 
 col_names = df.columns.tolist()
-st.dataframe(df[st.multiselect("Columns to display", col_names, default=[])])
+st.dataframe(df[st.multiselect("Columns to display", col_names, default = col_names)])
 
 st.text("")
 st.text("")
