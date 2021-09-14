@@ -81,7 +81,7 @@ def get_user_input():
 
 lr_model = pickle.load(open("Proj_model2.pkl", "rb"))
 input1 = get_user_input()
-prediction = ml_model.predict(input1)
+prediction = lr_model.predict(input1)
 
 st.text("")
 st.text("")
