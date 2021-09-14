@@ -83,7 +83,7 @@ lr_model = pickle.load(open("Proj_model2.pkl", "rb"))
 #rf_model = pickle.load(open("Proj_model_rf.pkl", "rb"))
 input1 = get_user_input()
 prediction = ml_model.predict(input1)
-prediction2 = rf_model.predict(input1)
+#prediction2 = rf_model.predict(input1)
 
 st.text("")
 st.text("")
