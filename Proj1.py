@@ -93,8 +93,6 @@ st.write("Tune the parameter on the side-bar by accessing the top left button on
 st.write("**The Chance Of Admission is ", "0" if (round(prediction[0], 2) < 0) else (
     str(round(prediction[0], 2) * 100) if (round(prediction[0], 2) < 1) else "100"), "percent.**")
 
-st.write("**The Chance Of Admission is ", "0" if (round(prediction2[0], 2) < 0) else (
-    str(round(prediction2[0], 2) * 100) if (round(prediction2[0], 2) < 1) else "100"), "percent.**")
 
 
 def credits(content):
